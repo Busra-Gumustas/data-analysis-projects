@@ -34,10 +34,6 @@ Bu proje kapsamında, bir süpermarketin satış verileri detaylı şekilde ince
 
 - `verisupermarket.ipynb`: Projenin tüm analiz ve görselleştirme adımlarını içeren Jupyter Notebook dosyası.
 
----
 
-## 🚀 Nasıl Kullanılır?
 
-1. Bu repoyu klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/verisupermarket.git
+
